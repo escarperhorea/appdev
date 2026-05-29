@@ -22,3 +22,4 @@ $students = $stmt->fetchAll();
     </tr>
     <?php endforeach; ?>
 </table>
+// Student B change
